@@ -5,5 +5,6 @@ export default async (
   request: VercelRequest,
   response: VercelResponse
 ): Promise<void> => {
+  console.log(fetch);
   response.send("🐈");
 };
