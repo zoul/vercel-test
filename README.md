@@ -1,4 +1,4 @@
-To reproduce locally:
+This repo illustrates a bug in the serverless function deployment code that’s triggered by a local `package.json` file in the `api` folder. To reproduce locally:
 
 ```
 % git clone https://github.com/zoul/vercel-test
